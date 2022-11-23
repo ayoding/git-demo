@@ -15,3 +15,4 @@ hello GIT hello world.
 hello GIT hello world.
 hello world.hello world.hello world.
 你在想什么 不可能
+systemctl stop 你的壁画
